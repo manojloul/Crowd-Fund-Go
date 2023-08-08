@@ -1,0 +1,10 @@
+.Outermost1{
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+.leftstatus{
+    border-right: 1px solid black;
+    padding-right: 10px;
+}

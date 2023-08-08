@@ -1,0 +1,173 @@
+.carousel{
+    text-align: center;
+    max-height: 50%;
+
+}
+.sliderimg{
+    height: 400px;
+    width: 100%;
+}
+
+.heading{
+   padding-top: 5px;
+    text-align: center;
+    font-size:large;
+}
+.Categories{
+    display: flex;
+    
+    justify-content: center;
+}
+.Item{
+    
+    border: 2px solid red;
+    margin: 20px;
+    width:122px;
+    height: 135px;
+    text-align:center;
+    padding-top: 110px ;
+}
+.Item:hover{
+border-color: gold;
+}
+#Item1{
+    background-image: url(../images/medical.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Item2{
+    color: black;
+    background-image: url(../images/education.png);
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+}
+#Item3{
+    background-image: url(../images/ngo.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Item4{
+    background-image: url(../images/cancer.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Item5{
+    background-image: url(../images/flood.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#start{
+    margin: auto;
+    height: 100px;
+    width:100px;
+    background-image: url(../images/start.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#share{
+    margin: auto;
+    height: 100px;
+    width:100px;
+    background-image: url(../images/share.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#withdraw{
+    margin: auto;
+    height: 100px;
+    width:100px;
+    background-image: url(../images/withdraw.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.helpus{
+    opacity: 1;
+    z-index: .5;
+    text-align: center;
+    border: 2px solid black;
+    background-color: lightgrey;
+}
+.worksouter{
+    text-align: center;
+}
+.Works{
+    display: flex;
+    margin-left: 300px;
+    flex-direction: row;
+
+}
+.steps{
+    text-align: center;
+    margin: 25px;
+    width:252px;
+    height: 252px;
+
+}
+.steps h3{
+    text-shadow: 0 0 3px #FF0000;
+
+}
+.Details{
+    
+    display:flex;
+    justify-content:space-evenly;
+    
+}
+.footer{
+    color: white;
+    font-size: 115%;
+    align-items:center;
+    margin-left: 50px;
+}
+
+.medialogo{
+    height: 100px;
+    display:flex;
+    background-image: url(../images/logos.png);
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+}
+
+.last{
+    margin-top: 10px;
+    padding-top: 10px;
+    color: white;
+    height: 30px;
+   text-align: center;
+
+}
+.Details-outer{
+    padding-bottom: 15px;
+    background-color: rgb(11,67,65);
+}
+.outerWorks{
+    justify-content: center;
+
+
+}
+.gifi{
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    width:400px;
+    height:400px;
+}
+.gifi img{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    text-shadow: 0 0 3px #FF0000;
+
+}

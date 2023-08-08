@@ -1,0 +1,84 @@
+.outer{
+background-image: url(../images/back.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin: auto;
+justify-items: center;
+ border: 2px solid black;   
+}
+.topheading{
+    text-align: center;
+    margin-top: 15px;
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+}
+.heading{
+    color: orangered;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.Requestform{
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.left{
+    justify-content: center;
+    
+}
+.up{
+    margin-bottom:50px;
+}
+.down{
+    margin-top:50px;
+    margin-bottom: 115px;
+}
+.down input{
+    height:250px
+}
+.right{
+    justify-content: center;
+}
+.right-up{
+    display: flex;
+
+}
+.Target{
+    margin-left: 30px;
+}
+.Deadline{
+    margin-top: 40px;
+}
+.File{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.right-down{
+    display: flex;
+}
+input{
+    height: 45px;
+    width: 300px;
+    background-color: whitesmoke;
+}
+button{
+    /* margin-left: 200px; */
+    background-color: rgb(4,170,109);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+}
+label{
+    font-weight: bolder;
+    font-size: medium;
+}
