@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/crowd-fund-go/static/css/main.151c62dd.chunk.css",
+    "main.js": "/crowd-fund-go/static/js/main.b31a3772.chunk.js",
+    "main.js.map": "/crowd-fund-go/static/js/main.b31a3772.chunk.js.map",
+    "runtime-main.js": "/crowd-fund-go/static/js/runtime-main.52670c49.js",
+    "runtime-main.js.map": "/crowd-fund-go/static/js/runtime-main.52670c49.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/crowd-fund-go/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.4949c795.chunk.js": "/crowd-fund-go/static/js/2.4949c795.chunk.js",
+    "static/js/2.4949c795.chunk.js.map": "/crowd-fund-go/static/js/2.4949c795.chunk.js.map",
+    "static/js/3.bb0da390.chunk.js": "/crowd-fund-go/static/js/3.bb0da390.chunk.js",
+    "static/js/3.bb0da390.chunk.js.map": "/crowd-fund-go/static/js/3.bb0da390.chunk.js.map",
+    "index.html": "/crowd-fund-go/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/crowd-fund-go/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.151c62dd.chunk.css.map": "/crowd-fund-go/static/css/main.151c62dd.chunk.css.map",
+    "static/js/2.4949c795.chunk.js.LICENSE.txt": "/crowd-fund-go/static/js/2.4949c795.chunk.js.LICENSE.txt",
+    "static/media/request.css": "/crowd-fund-go/static/media/back.e1de4409.jpg",
+    "static/media/Slider.css": "/crowd-fund-go/static/media/withdraw.09a844ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52670c49.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.4949c795.chunk.js",
+    "static/css/main.151c62dd.chunk.css",
+    "static/js/main.b31a3772.chunk.js"
+  ]
+}
